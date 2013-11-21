@@ -1,0 +1,26 @@
+{
+  "name": "pastebin",
+  "version": "0.0.1",
+  "description": "to post some content on pastebin",
+  "main": "src/pastebin.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stumpyfr/node-pastebin.git"
+  },
+  "keywords": [
+    "pastebin"
+  ],
+  "author": "Niels Freier",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "qs": "~0.6.5"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "qs": "~0.6.5"
+  }
+}
