@@ -21,6 +21,22 @@ pastebin.new({title: 'test', content: 'kikou42'}, function (err, ret) {
     });
 ```
 
+You need at least indicate a `content` and you can add:
+
+`title` Title of you content
+
+`privacy` public = 0, unlisted = 1, private = 2
+
+`expire`
+
+    N = Never
+    10M = 10 Minutes
+    1H = 1 Hour
+    1D = 1 Day
+    1W = 1 Week
+    2W = 2 Weeks
+    1M = 1 Month
+
 Test.
 =============
 
