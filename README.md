@@ -21,6 +21,11 @@ pastebin.new({title: 'test', content: 'kikou42'}, function (err, ret) {
     });
 ```
 
+Test.
+=============
+
+`npm test`
+
 ## License
 
 The MIT License (MIT)
