@@ -6,7 +6,7 @@ A simple lib to post to pastebin
 installation
 =============
 
-`npm install quadkey`
+`npm install pastebin`
 
 usage
 =============
